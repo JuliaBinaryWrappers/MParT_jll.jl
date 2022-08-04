@@ -1,124 +1,124 @@
 [[MParT]]
 arch = "aarch64"
-git-tree-sha1 = "d3c95369fcf41a6302bec8d693cf3079dab4340a"
+git-tree-sha1 = "8c509882a01eaf6f3ff0f92d2c5db8ea19dd3fbe"
 os = "macos"
 
     [[MParT.download]]
-    sha256 = "e0cdfc5862a67dd22424d8885e74fdec665bc7cb90e87073489228cfedcb1283"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "eb80f756cea0662f34f15174e74277ec8de4b37ef1cc74d0b6cd3f1c80997ed5"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.aarch64-apple-darwin.tar.gz"
 [[MParT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec5b22b1c7605b09edc97391cff0db0a06b1dded"
+git-tree-sha1 = "12853794a01fb94d1ba210ba64d84160395ff440"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "f0cfe53712c1f43f9f40ba71315d68a4cabfae79b71be5a56935424249845326"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "73ec2bf9e29ea3ac6127ad3396c84e7c318f81d65d825bc98c83d28a096a87af"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[MParT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1b58184e35fb5a7ddf3a8bfe7412301c6b9ba93"
+git-tree-sha1 = "eb5e737da74aca953c637cd38943180a81fb63db"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "f370383ad87fd6990c9b06512c26e8ec05ad6172bb3a53a72f7b3623d26168d4"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b6eb80def7110ce11c83c5a38b83c10d5375793503854d3daafb141ac7ff7af1"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[MParT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef28060f4b1ef0b98a079c38058d356a80c1465c"
+git-tree-sha1 = "da60460a0c7b9131d2a755dd0dfed029005b06ab"
 libc = "musl"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "6ae104b163c3cebade992720f0ea905b9977d65d4f5b06e38762cbf433907583"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "30176090c64eff4e02fb8504d1c86e09835b7d0dd668bb86f57972be853ee331"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.aarch64-linux-musl-cxx03.tar.gz"
 [[MParT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae8fb4e92f209bb07460a20ef50847993707a248"
+git-tree-sha1 = "bd48deb4f44ea67c7e9997109f7e46a68e3614a9"
 libc = "musl"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "72d891dd672488f9c3b9f0ee6859deeb49edb9a18f945f238eb2d5688d8c138f"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "5fbeb03810059e1823d347c05bc330fbe34fa26e9abf7dca3dd007c75eedad2f"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.aarch64-linux-musl-cxx11.tar.gz"
 [[MParT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c467269a4a41828dfa233d86ada5b5df073ec1a3"
+git-tree-sha1 = "1d86555f6b5f7d85da10eab89183efd1d70c69b2"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "fe1cf7715e97483e18acb16c369c9f7227d4cd98f67d027be250d7d9d36a3ae5"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "02ecc97119f267b96bd8cd70b214597e6a3ce106d4f0f57fa5bdf0a079158c67"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MParT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4366347df0027fcbf74aa2131e588e4d0077aeca"
+git-tree-sha1 = "3cef14d896c748fb207d9991f0a9a5df6bac06e8"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "a2b750a2f81dbdeac3c5d4bc33da13926f5cf4a813f86f3d98e0fff2347d065b"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "bc8a902e91a429d9bd2c3e1dfdb149ccc8b1ac54ed46b142bc40d0f2eb89a679"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MParT]]
 arch = "x86_64"
-git-tree-sha1 = "d5fef8e6170807c0aa279bf7913a6ba5bbc317bd"
+git-tree-sha1 = "f1d9ca6fcc3e6602512ad4f69da0aa69f0f5d7ce"
 os = "macos"
 
     [[MParT.download]]
-    sha256 = "02241b2b67dc2d6ada8aae053f84fed4278fe982c219dfd07081d4302204c55b"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "7258f117a90426139c2d16f1eeec470604c0c17a53a6a5e7d05b887d171ce941"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-apple-darwin.tar.gz"
 [[MParT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5bb43a43cff4eebbe70aef688ea2c0f9dca0905c"
+git-tree-sha1 = "1ddfa0288645df525427692028c991cb98ef699a"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "608c216f080936eaaa3e96f1fad697ede9e2b3cfcd8dc79ba95c03061753710e"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0a96a63cb1df6aae67d216ec2dff0eb71428f5b6eca887ebc991adfc9a8a4423"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[MParT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe4d3409151d9bad48df956d8852b32178a34947"
+git-tree-sha1 = "a3a10037a5c1ff41bceb40a3708db55b02c751dd"
 libc = "glibc"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "20b093dd574bc571effec15706e7414964f3b7e3da2237c2c49608415a93b7cd"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2fde157e5044f444521b3aab2c88cb59dacc7b8433650722e521e21944c7cd77"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[MParT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1a801093e4719f510663fc52f48e1aad145fa02c"
+git-tree-sha1 = "54cde18f8916b6839150432a0afd5e9a2e143831"
 libc = "musl"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "5b6fcbad44e198de7d91cdf7988f389264d53e99e4a37daf7eee05182acd0d25"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "c0b7e23132d8c8bf2b6d41c70d92b4b14bbe9e3abd4eaa0506a19bc584377b20"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-linux-musl-cxx03.tar.gz"
 [[MParT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1330a220b3d7ff8850be71245705cdd784cfbfd4"
+git-tree-sha1 = "055b071bf6bb847e5efd937bf1284599fe253e95"
 libc = "musl"
 os = "linux"
 
     [[MParT.download]]
-    sha256 = "b922f95694ec5ecf42cccc14c54ea23d40e5a9e1b159fd3f356b71f8276be5cc"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "85b9736862c0ce3055d58187816d0c7b56cd77a7d6562101adab228b5591fc77"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-linux-musl-cxx11.tar.gz"
 [[MParT]]
 arch = "x86_64"
-git-tree-sha1 = "4298c826dde9f7f1feb1e71c345e407566de6f9c"
+git-tree-sha1 = "90704e0841a9de6c4f80163aaf2d595e0ff6db13"
 os = "freebsd"
 
     [[MParT.download]]
-    sha256 = "cfebc5605fdd3756b903678a4a282dd429e1f1a597a260e331422a0946fb6e6a"
-    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.0+0/MParT.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fa5081a8ee575d032917cee78c3876af4fa3ef72dc1c133c09b581d84d31f785"
+    url = "https://github.com/JuliaBinaryWrappers/MParT_jll.jl/releases/download/MParT-v0.2.1+0/MParT.v0.2.1.x86_64-unknown-freebsd.tar.gz"
