@@ -18,7 +18,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libmpartjl,
-        "lib/libmpartjl.dylib",
+        "julia/libmpartjl.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
