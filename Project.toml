@@ -1,6 +1,6 @@
 name = "MParT_jll"
 uuid = "bee5971c-294f-5168-9fcd-9fb3c811d495"
-version = "2.1.0+0"
+version = "2.2.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,4 +13,6 @@ Kokkos_jll = "c1216c3d-6bb3-5a2b-bbbf-529b35eba709"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Libdl = "1"
+Artifacts = "1"
 Kokkos_jll = "=3.7.2"
